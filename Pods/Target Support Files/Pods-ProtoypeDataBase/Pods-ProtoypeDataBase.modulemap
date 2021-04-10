@@ -1,0 +1,6 @@
+framework module Pods_ProtoypeDataBase {
+  umbrella header "Pods-ProtoypeDataBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
